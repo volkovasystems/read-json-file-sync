@@ -1,0 +1,22 @@
+{
+  "name": "read-json-file-sync",
+  "version": "0.1.0",
+  "description": "Read JSON file synchronously.",
+  "main": "read-json-file-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/read-json-file-sync.git"
+  },
+  "keywords": [
+    "read-json-file"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/read-json-file-sync/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/read-json-file-sync#readme"
+}
